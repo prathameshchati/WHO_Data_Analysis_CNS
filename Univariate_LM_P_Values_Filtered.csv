@@ -1,0 +1,10 @@
+unlist.colnames.data_f..,unlist.p_val_list.
+populationquartile_2021,0.000288673907666025
+age0to14_percent,0.00124448825106848
+age65over_percent,0.000168392168095962
+deathrate_per1000,0.0398918642021676
+physicians_per1000,0.060750032041631
+risk_impoverishing_surgicalcare_percent,0.00169257359457455
+healthexpenditure_percentofgdp,9.72117235429399e-05
+outofpocketexpenditure_percentcurrenthealthexpenditure,0.00685492688372986
+outofpocketexpenditure_over25percenthouseholdincome_percentofpeople,0.0823423352609453
